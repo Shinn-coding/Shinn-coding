@@ -8,7 +8,7 @@
   <b>Full-Stack Web Developer & Network Specialist</b>
 </p>
 
-
+</a>
   <a href="https://github.com/Shinn-coding">
     <img src="https://img.shields.io/badge/GITHUB-Shinn--coding-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
