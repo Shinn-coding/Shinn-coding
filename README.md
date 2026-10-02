@@ -15,7 +15,20 @@
 
 ---
 
-### 🛠 Tech Stack & Services
-- **Web Development:** PHP, MySQL, Tailwind CSS
-- **Network Solutions:** MikroTik Configuration & Paket NetKopi
-- **Tools & Tech:** Vercel, OpenCV, Linux (Ubuntu)
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="./Group 3.png" alt="HTML5" height="50" />
+  <img src="./Group 7.png" alt="CSS3" height="50" />
+  <img src="./Group 4.png" alt="JavaScript" height="50" />
+  <img src="./Group 36.png" alt="TypeScript" height="50" />
+  <img src="./Group 31.png" alt="React" height="50" />
+  <img src="./Group 87.png" alt="MySQL" height="50" />
+</p>
+
+---
+
+### 💻 Services & Expertise
+- **Web Development:** PHP, MySQL, React, TypeScript, Tailwind CSS
+- **Network Solutions:** MikroTik Router Configuration & Paket NetKopi
+- **System & Deployment:** Linux (Ubuntu), OpenCV, Vercel
