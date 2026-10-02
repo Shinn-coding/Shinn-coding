@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Group 19.png" alt="Shinn Banner" width="100%">
+  <img src="./assets/banner.png" alt="Shinn Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Shinn 👋</h1>
@@ -25,17 +25,17 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="./Group 3.png" alt="HTML5" height="50" />
-  <img src="./Group 7.png" alt="CSS3" height="50" />
-  <img src="./Group 4.png" alt="JavaScript" height="50" />
-  <img src="./Group 36.png" alt="TypeScript" height="50" />
-  <img src="./Group 31.png" alt="React" height="50" />
-  <img src="./Group 87.png" alt="MySQL" height="50" />
+  <img src="./assets/html.png" alt="HTML5" height="48" />
+  <img src="./assets/css.png" alt="CSS3" height="48" />
+  <img src="./assets/js.png" alt="JavaScript" height="48" />
+  <img src="./assets/ts.png" alt="TypeScript" height="48" />
+  <img src="./assets/react.png" alt="React" height="48" />
+  <img src="./assets/mysql.png" alt="MySQL" height="48" />
 </p>
 
 ---
 
-### 💻 Services & Expertise
-- **Web Development:** PHP, MySQL, React, TypeScript, Tailwind CSS
-- **Network Solutions:** MikroTik Router Configuration & Paket NetKopi
-- **System & Deployment:** Linux (Ubuntu), OpenCV, Vercel
+### 💻 Services & Featured Projects
+- **Paket NetKopi:** Network & Router Management Solution via MikroTik.
+- **Web Coffee App:** Full-stack web application built with PHP, MySQL & Tailwind CSS.
+- **System & Deployment:** Linux (Ubuntu), OpenCV, Vercel.
