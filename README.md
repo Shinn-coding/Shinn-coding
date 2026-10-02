@@ -8,7 +8,7 @@
   <b>Full-Stack Web Developer & Network Specialist</b>
 </p>
 
-</a>
+<p align="center">
   <a href="https://github.com/Shinn-coding">
     <img src="https://img.shields.io/badge/GITHUB-Shinn--coding-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -29,7 +29,7 @@
 
 ---
 
-### 💻 Services & Featured Projects
+### 💻 Services & Expertise
 - **Paket NetKopi:** Network & Router Management Solution via MikroTik.
 - **Web Coffee App:** Full-stack web application built with PHP, MySQL & Tailwind CSS.
 - **System & Deployment:** Linux (Ubuntu), OpenCV, Vercel.
