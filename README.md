@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Shinn Banner" width="100%">
-</p>
+<div align="center">
+  <img src="./assets/banner.png" alt="Shinn Banner" width="85%">
+</div>
 
 <h1 align="center">Hi, I'm Shinn 👋</h1>
 
