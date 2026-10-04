@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Shinn Banner" width="85%">
+  <img src="./assets/shinn-profile-restored-card-transparent.png" alt="Shinn Banner" width="85%">
 </div>
 
 <h1 align="center">Hi, I'm Shinn 👋</h1>
